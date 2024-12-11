@@ -1,0 +1,29 @@
+{
+  "name": "delete",
+  "version": "1.0.0",
+  "description": "DELETE THIS LATER",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "sass": "sass -w sass/:dist/css/",
+    "render": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkinnyCheesecake/delete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkinnyCheesecake/delete/issues"
+  },
+  "homepage": "https://github.com/SkinnyCheesecake/delete#readme",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "sass": "^1.82.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^6.0.0"
+  }
+}

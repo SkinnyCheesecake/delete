@@ -1,0 +1,19 @@
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    .logo{
+        color: red;
+    }
+
+}
+
+.content{
+    display: flex;
+    gap: 4rem;
+}
+

@@ -1,0 +1,9 @@
+@use 'global/vars' as *;
+
+.container_main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+    background-color: $color;
+    height: 10rem;
+}

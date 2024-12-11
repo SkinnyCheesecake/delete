@@ -1,0 +1,23 @@
+.loginsection, form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    gap: 2rem;
+}
+
+input{
+    background-color: black;
+    color: white;
+}
+
+.arturohomosexual{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-content: center;
+    place-items: center;
+
+    img{
+        width: 100%;
+    }
+}
+
